@@ -1,6 +1,7 @@
 <p align="center">
 	<img src="logo.png" width="376" height="128" alt="Winlator Logo" />
 </p>
+
 # 关于此仓库
 用于存放Winlator-CN的定制版rootfs
 ## 主仓库地址
